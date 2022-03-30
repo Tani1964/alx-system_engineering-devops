@@ -1,2 +1,2 @@
 #!bin/bash
-total 16 -rw-r--r-- 1 root root 66 Mar 30 13:48 0-current_working_directory -rw-r--r-- 1 root root 59 Mar 30 13:54 1-listit -rw-r--r-- 1 root root 14 Mar 30 13:59 2-bring_me_home -rw-r--r-- 1 root root  0 Mar 30 14:05 3-listfiles -rw-r--r-- 1 root root 78 Mar 30 13:31 README.md
+ls -l
